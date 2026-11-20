@@ -93,7 +93,7 @@ function buildBajn() {
   <div class="rc-panel rc-scroll"><table class="rc-tbl">${head}<tbody data-bajn="WRH"></tbody></table></div>
   <h3 class="rc-h3">1:8 Offroad MB</h3>
   <div class="rc-panel rc-scroll"><table class="rc-tbl">${head}<tbody data-bajn="MB"></tbody></table></div>
-  <details class="rc-foot rc-note"><summary>Megjegyzések</summary><p>Forrás: MyRCM Championship (Bognár Zoli rendező), 2023-tól; korábbi szezonok bajnoki értékelése nincs a MyRCM-en. Az „Indulók” a bajnoki táblán szereplő összes pilóta, aki legalább egy fordulón pontot szerzett. A 2026/27-es WRH- és Téli OB-szezon még nem szerepel. Az adatok a 2026-11-19-i állapotot mutatják.</p></details>`;
+  <details class="rc-foot rc-note"><summary>Megjegyzések</summary><p>Forrás: MyRCM Championship (Bognár Zoli rendező), 2023-tól; korábbi szezonok bajnoki értékelése nincs a MyRCM-en. Kivétel a 2022/23-as WRH (akkor „West Rc Hungary”) Buggy Stock 2WD: Hunor bajnoki címe kézi bejegyzés; a MyRCM-en ebből a szezonból csak a 4–6. forduló eredménye van fent, bajnoki tabella nincs, ezért pont és indulószám nélkül szerepel. Az „Indulók” a bajnoki táblán szereplő összes pilóta, aki legalább egy fordulón pontot szerzett. A 2026/27-es WRH- és Téli OB-szezon még nem szerepel. Az adatok a 2026-11-19-i állapotot mutatják.</p></details>`;
 }
 
 // ---------- Rendering ----------
@@ -236,7 +236,7 @@ function drawCharts(id) {
 
 function champCell(tr, rk, best, pts) {
   const td = mk('td', 'd rc-champ' + (rk != null && rk === best ? ' best' : '') + (rk === 1 ? ' gold' : rk === 2 ? ' silver' : rk === 3 ? ' bronze' : ''), rk == null ? '–' : rk + '.');
-  if (rk != null && pts != null) td.appendChild(mk('small', null, ' ' + pts + ' p'));
+  if (rk != null && pts != null && pts !== '') td.appendChild(mk('small', null, ' ' + pts + ' p'));
   tr.appendChild(td);
 }
 let BAJN_DATA = null;
@@ -321,12 +321,12 @@ function renderBajn(bajn, rob, zs, hu) {
     const grp = tb.dataset.bajn;
     tb.replaceChildren(...bajn.filter((r) => String(r.key || '').split('-')[0] === grp).map((r) => {
       const tr = mk('tr');
-      tr.append(mk('td', 'd', String(r.season)), mk('td', 'mut', String(r.category)), mk('td', 'd', String(r.field)));
+      tr.append(mk('td', 'd', String(r.season)), mk('td', 'mut', String(r.category)), mk('td', 'd', r.field === '' || r.field == null ? '–' : String(r.field)));
       const ranks = ['rob', 'zs', 'hu'].map((k) => num(r[k + '_rank']));
       const b = d3.min(ranks.filter((x) => x != null));
       ['rob', 'zs', 'hu'].forEach((k, i) => champCell(tr, ranks[i], b, r[k + '_pts']));
       const fam = ranks.includes(1);
-      tr.appendChild(mk('td', fam ? 'rc-champ gold best' : 'mut', (fam ? '🏆 ' : '') + r.winner + ' (' + r.winner_pts + ' p)'));
+      tr.appendChild(mk('td', fam ? 'rc-champ gold best' : 'mut', (fam ? '🏆 ' : '') + r.winner + (r.winner_pts ? ' (' + r.winner_pts + ' p)' : '')));
       return tr;
     }));
   });
