@@ -114,3 +114,14 @@ html, body { margin: 0; background: #110a0a; }
 .rc-champ.best { background: rgba(255,59,48,.10); }
 .rc-champ.gold { color: #f2c14e; } .rc-champ.silver { color: #d6d6e0; } .rc-champ.bronze { color: #d08a4e; }
 .rc-snap { font-size: 12px; color: var(--rc-muted); margin-top: 10px; }
+
+/* Egymás elleni mérleg */
+.rc-h2h { display: grid; gap: 18px; }
+.rc-h2h .row { display: grid; grid-template-columns: minmax(80px, 120px) minmax(0, 1fr) minmax(80px, 120px); gap: 6px 12px; align-items: center; }
+.rc-h2h .nm { font-family: var(--rc-cond); font-weight: 800; font-size: 15px; letter-spacing: .06em; text-transform: uppercase; color: #d6c6c6; }
+.rc-h2h .nm.r { text-align: right; }
+.rc-h2h .nm b { display: block; font-size: 34px; line-height: 1; font-variant-numeric: tabular-nums; }
+.rc-h2h .bar { display: flex; height: 26px; border-radius: 6px; overflow: hidden; background: #302222; }
+.rc-h2h .bar span { display: block; height: 100%; }
+.rc-h2h .cap { grid-column: 1 / -1; font-size: 12px; color: var(--rc-muted); text-align: center; }
+[data-swap] .v { font-size: 30px; }
