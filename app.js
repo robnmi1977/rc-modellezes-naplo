@@ -89,11 +89,11 @@ function buildBajn() {
   <h3 class="rc-h3">Hol végeztetek a mezőnyben, évenként</h3>
   <p class="rc-sub">Évenként átlagosan a mezőny hány százalékát előzte meg a végeredményben: 100% = mindig győzött, 50% = középmezőny, 0% = mindig utolsó. Fent a jobb.</p>
   <div class="rc-panel"><div class="rc-leg"><span><i style="background:var(--rc-red)"></i>RoB</span><span><i style="background:var(--rc-yellow)"></i>Zsombor</span><span><i style="background:var(--rc-blue)"></i>Hunor</span></div><div class="rc-chart" id="evline"></div></div>
-  <h3 class="rc-h3">1:10 WRH (téli szezon)</h3>
+  <h3 class="rc-h3">1:10 téli szezon (Téli MB, WRH)</h3>
   <div class="rc-panel rc-scroll"><table class="rc-tbl">${head}<tbody data-bajn="WRH"></tbody></table></div>
   <h3 class="rc-h3">1:8 Offroad MB</h3>
   <div class="rc-panel rc-scroll"><table class="rc-tbl">${head}<tbody data-bajn="MB"></tbody></table></div>
-  <details class="rc-foot rc-note"><summary>Megjegyzések</summary><p>Forrás: MyRCM Championship (Bognár Zoli rendező), 2023-tól; korábbi szezonok bajnoki értékelése nincs a MyRCM-en. Kivétel a 2022/23-as WRH (akkor „West Rc Hungary”) Buggy Stock 2WD: Hunor bajnoki címe kézi bejegyzés; a MyRCM-en ebből a szezonból csak a 4–6. forduló eredménye van fent, bajnoki tabella nincs, ezért pont és indulószám nélkül szerepel. Az „Indulók” a bajnoki táblán szereplő összes pilóta, aki legalább egy fordulón pontot szerzett. A 2026/27-es WRH- és Téli OB-szezon még nem szerepel. Az adatok a 2026-11-19-i állapotot mutatják.</p></details>`;
+  <details class="rc-foot rc-note"><summary>Megjegyzések</summary><p>Forrás: MyRCM Championship, 2021-től (2021–2022: RC Off-road Autómodellező Egyesület – Téli MB 2021/22 és Offroad MB 2021, 2022; 2023-tól Bognár Zoli rendező). 2021 előtti bajnoki értékelés a MyRCM-en nincs. Kivétel a 2022/23-as WRH (akkor „West Rc Hungary”) Buggy Stock 2WD: Hunor bajnoki címe kézi bejegyzés; a MyRCM-en ebből a szezonból csak a 4–6. forduló eredménye van fent, bajnoki tabella nincs, ezért pont és indulószám nélkül szerepel. Az „Indulók” a bajnoki táblán szereplő összes pilóta, aki legalább egy fordulón pontot szerzett. A 2026/27-es WRH- és Téli OB-szezon még nem szerepel. Az adatok a 2026-11-19-i állapotot mutatják.</p></details>`;
 }
 
 // ---------- Rendering ----------
