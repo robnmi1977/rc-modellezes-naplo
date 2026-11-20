@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RC modellezés</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Crect width='24' height='24' rx='5' fill='%23ff3b30'/%3E%3Ccircle cx='6.5' cy='16' r='2.5' fill='%23110a0a'/%3E%3Ccircle cx='17.5' cy='16' r='2.5' fill='%23110a0a'/%3E%3C/svg%3E">
+</head>
+<body>
+<div class="rc">
+<div class="rc-wrap">
+  <header class="rc-head">
+    <div class="rc-logo" aria-hidden="true">
+      <svg width="34" height="34" viewBox="0 0 24 24" fill="none" stroke="#1a0605" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="5.5" cy="16" r="3"/><circle cx="18.5" cy="16" r="3"/><path d="M8.5 16h7M3 12.5l3-3h7l3 3h3.5M10 9.5V7h5M19 8l2-2"/></svg>
+    </div>
+    <div>
+      <div class="rc-brand">RC <span class="hl">MODELLEZÉS</span></div>
+      <div class="rc-tag">1:10 · 1:8 · szerviz · setup · verseny</div>
+    </div>
+  </header>
+
+  <div class="rc-sw" role="tablist" aria-label="Méretarány">
+    <button type="button" class="on" data-sec="s110">1:10<small>Buggy · túraautó · 2026</small></button>
+    <button type="button" data-sec="s18">1:8 buggy<small>2023 – 2026</small></button>
+    <button type="button" data-sec="sres">Versenyek · RoB<small>MyRCM eredmények</small></button>
+    <button type="button" data-sec="sresz">Versenyek · Zsombor<small>MyRCM eredmények</small></button>
+    <button type="button" data-sec="sresh">Versenyek · Hunor<small>MyRCM eredmények</small></button>
+    <button type="button" data-sec="sbajn">Bajnokságok<small>Szezon végi helyezések</small></button>
+  </div>
+
+  <div class="rc-sec" id="s110"></div>
+  <div class="rc-sec" id="s18" hidden></div>
+  <div class="rc-sec" id="sres" data-p="rob" hidden></div>
+  <div class="rc-sec" id="sresz" data-p="zs" hidden></div>
+  <div class="rc-sec" id="sresh" data-p="hu" hidden></div>
+  <div class="rc-sec" id="sbajn" hidden></div>
+
+  <div class="rc-snap" id="snap"></div>
+</div>
+</div>
+<script src="vendor/d3.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

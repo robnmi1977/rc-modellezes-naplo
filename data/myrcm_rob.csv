@@ -1,0 +1,62 @@
+date,year,venue,event,class,scale,field,qualy_rank,final_rank,final_group,winner,tq,day_best,my_best,gap_s,gap_pct,a_final_best,my_f_best,f_gap_pct,median_lap,consistency_pct,final_heats
+2026-10-24,2026,Szár,Téli OB 26/27 1. ford.,Buggy Stock 4WD,1/10,6,4,4,A,Zsombor Fekete,Hunor Fekete,17.139,17.69,0.551,3.21,17.139,17.69,3.21,19.016,3.74,6/6 4/6 4/6
+2026-09-26,2026,Pécs,2026 Offroad MB 6. ford.,1/8 E-Buggy,1/8,12,4,5,A,Hunor Fekete,Hunor Fekete,32.401,33.474,1.073,3.31,33.356,34.334,2.93,36.105,3.25,5/12 5/12 2/12
+2026-08-29,2026,Szekszárd,2026 Offroad MB 5. ford.,1/8 E-Buggy,1/8,28,5,8,A,Zsombor Fekete,Zsombor Fekete,41.406,44.676,3.27,7.9,42.351,44.745,5.65,46.702,2.9,9/10 10/10 7/10
+2026-08-01,2026,Szár,2026 Offroad MB 4. ford.,1/8 E-Buggy,1/8,18,7,8,A,Zsombor Fekete,Zsombor Fekete,32.129,34.554,2.425,7.55,32.325,35.483,9.77,38.031,4.81,7/10 8/10 8/10
+2026-06-27,2026,Győr,2026 Offroad MB 3. ford.,1/8 E-Buggy,1/8,27,8,8,A,Zsombor Fekete,Eszenyi Andras,31.131,32.726,1.595,5.12,31.277,33.142,5.96,35.281,3.72,9/10 5/10 7/10
+2026-05-31,2026,Homokbödöge,IX. Bakonyerdő Kupa,1/8 E-Buggy,1/8,12,4,4,A,Zsombor Fekete,Zsombor Fekete,32.848,33.505,0.657,2.0,33.665,34.259,1.76,,,6/6 4/6 4/6
+2026-05-30,2026,Homokbödöge,2026 Offroad MB 2. ford.,1/8 E-Buggy,1/8,29,6,9,A,Eszenyi Andras,Eszenyi Andras,32.187,34.208,2.021,6.28,32.648,34.646,6.12,35.476,2.68,7/10 9/10
+2026-05-09,2026,Apaj,2026 Offroad MB 1. ford.,1/8 E-Buggy,1/8,20,7,7,A,Zsombor Fekete,Zsombor Fekete,27.428,28.72,1.292,4.71,27.45,28.72,4.63,30.189,2.81,6/10 7/10 5/10
+2026-03-07,2026,Szár,Hudy-WRH 25/26 6. ford.,1/10 WRH Buggy Stock 4WD,1/10,5,5,5,A,Hunor Fekete,Nándor Neruda,17.835,18.166,0.331,1.86,17.929,18.254,1.81,19.264,3.04,5/5 5/5 4/5
+2026-02-07,2026,Szár,Hudy-WRH 25/26 5. ford.,1/10 WRH Buggy Stock 4WD,1/10,8,4,5,A,Jácint Halász,Jácint Halász,20.296,20.488,0.192,0.95,20.35,20.488,0.68,21.426,2.69,3/8 4/8 4/8
+2026-01-10,2026,Szár,Hudy-WRH 25/26 4. ford.,1/10 WRH Buggy Stock 4WD,1/10,6,5,6,A,Nándor Neruda,Nándor Neruda,20.12,20.687,0.567,2.82,20.586,20.687,0.49,21.505,2.68,5/6 4/6 5/6
+2025-12-06,2025,Szár,Hudy-WRH 25/26 3. ford.,1/10 WRH Buggy Stock 4WD,1/10,5,3,4,A,Nándor Neruda,Nándor Neruda,21.09,21.356,0.266,1.26,21.09,21.596,2.4,22.064,3.11,3/5 3/5 4/5
+2025-11-08,2025,Szár,Hudy-WRH 25/26 2. ford.,1/10 WRH Buggy Stock 4WD,1/10,8,,4,A,Jácint Halász,,18.735,19.296,0.561,2.99,18.735,19.296,2.99,20.485,3.29,7/8 5/8 2/8
+2025-10-11,2025,Szár,Hudy-WRH 25/26 1. ford.,1/10 WRH Buggy Stock 4WD,1/10,7,3,5,A,Gergely Csekő,Gergely Csekő,21.272,21.585,0.313,1.47,21.272,22.077,3.78,22.661,2.2,7/7 4/7 4/7
+2025-09-20,2025,Győr,2025 Offroad MB 6. ford.,1/8 E-Buggy,1/8,27,12,11,B,Eszenyi Andras,Eszenyi Andras,32.318,34.435,2.117,6.55,32.603,34.435,5.62,35.875,2.75,2/10 1/10 1/10
+2025-08-17,2025,Homokbödöge,VIII. Bakonyerdő Kupa,1/8 E-Buggy,1/8,16,7,6,A,Balazs Palla,Balazs Palla,33.345,34.772,1.427,4.28,34.524,36.074,4.49,37.616,3.78,5/8 6/8 7/8
+2025-08-16,2025,Homokbödöge,2025 Offroad MB 5. ford.,1/8 E-Buggy,1/8,23,9,11,A,Eszenyi Andras,Eszenyi Andras,32.604,34.289,1.685,5.17,33.622,35.469,5.49,36.81,3.04,11/11 10/11 9/11
+2025-07-12,2025,Győr,2025 Offroad MB 4. ford.,1/8 E-Buggy,1/8,25,10,7,A,Balazs Palla,Eszenyi Andras,31.125,32.449,1.324,4.25,31.254,33.968,8.68,34.546,3.08,7/12 7/12 7/12
+2025-06-21,2025,Szekszárd,2025 Offroad MB 3. ford.,1/8 E-Buggy,1/8,22,6,7,A,Eszenyi Andras,Eszenyi Andras,38.398,40.815,2.417,6.29,38.398,40.815,6.29,42.48,3.29,6/11 8/11 5/11
+2025-04-26,2025,Apaj,2025 Offroad MB 1. ford.,1/8 E-Buggy,1/8,17,6,7,A,Botond Kinhirt,Botond Kinhirt,26.991,27.285,0.294,1.09,26.991,27.285,1.09,28.919,2.39,7/8 6/8 8/8
+2025-03-08,2025,Szár,WRH 24/25 6. ford.,1/10 WRH Buggy Stock 4WD,1/10,6,3,2,A,Nándor Neruda,Ádám Szabó,19.221,19.592,0.371,1.93,19.405,19.592,0.96,20.384,2.7,5/6 1/6 3/6
+2025-03-08,2025,Szár,WRH 24/25 6. ford.,1/10 WRH Buggy Super 2WD,1/10,9,1,1,A,Robert Fekete,Robert Fekete,20.103,20.447,0.344,1.71,20.447,20.447,0.0,21.335,3.14,1/9 1/9 1/9
+2025-02-08,2025,Szár,WRH 24/25 5. ford.,1/10 WRH Buggy Stock 4WD,1/10,8,5,3,A,András Csepregi,Ádám Szabó,18.523,19.03,0.507,2.74,18.523,19.03,2.74,20.067,3.16,5/8 4/8 2/8
+2025-01-11,2025,Szár,WRH 24/25 4. ford.,1/10 WRH Buggy Stock 4WD,1/10,9,5,4,A,Putzer Alex,Putzer Alex,17.736,18.369,0.633,3.57,17.736,18.434,3.94,19.114,2.43,3/9 3/9 7/9
+2024-12-27,2024,Szár,WRH European Offroad GP,1/10 WRH Buggy Stock 4WD,1/10,5,2,1,A,Robert Fekete,Ádám Szabó,18.996,19.242,0.246,1.3,18.996,19.242,1.3,19.86,2.54,2/5 4/5 1/5
+2024-12-07,2024,Szár,WRH 24/25 3. ford.,1/10 WRH Buggy Stock 4WD,1/10,6,3,1,A,Robert Fekete,Ádám Szabó,18.441,19.006,0.565,3.06,18.441,19.097,3.56,19.874,2.67,1/6 2/6 2/6
+2024-11-09,2024,Szár,WRH 24/25 2. ford.,1/10 WRH Buggy Stock 4WD,1/10,7,2,2,A,Ádám Szabó,Ádám Szabó,18.616,19.191,0.575,3.09,19.038,19.486,2.35,19.882,2.25,1/7 6/8 2/7
+2024-10-12,2024,Szár,WRH 24/25 1. ford.,1/10 WRH Buggy Stock 4WD,1/10,10,2,2,A,Jácint Halász,Jácint Halász,18.29,18.687,0.397,2.17,18.29,18.905,3.36,19.695,2.88,2/10 4/10 1/10
+2024-09-22,2024,Homokbödöge,VII. Bakonyerdő Kupa,1/8 E-Buggy,1/8,16,7,9,A,Balazs Palla,Balazs Palla,33.2,34.484,1.284,3.87,33.827,35.833,5.93,,,8/10 8/10 9/10
+2024-08-31,2024,Szekszárd,Offroad MB 2024 4. ford.,1/8 E-Buggy,1/8,20,7,8,A,Eszenyi Andras,Botond Kinhirt,38.77,41.613,2.843,7.33,38.77,41.864,7.98,43.922,3.19,8/10 6/10 10/10
+2024-08-10,2024,Győr,Offroad MB 2024 5. ford.,1/8 E-Buggy,1/8,24,10,10,A,Botond Kinhirt,Balazs Palla,32.083,33.918,1.835,5.72,32.255,33.918,5.16,36.641,3.71,8/10 9/10 10/10
+2024-07-06,2024,Szekszárd,SMSE Cup 2024,1/8 E-Buggy,1/8,14,11,8,B,Eszenyi Andras,Botond Kinhirt,38.728,41.577,2.849,7.36,38.765,41.577,7.25,45.165,5.22,1/8 1/7 1/7
+2024-06-29,2024,Homokbödöge,Offroad MB 2024 3. ford.,1/8 E-Buggy,1/8,29,9,8,A,Eszenyi Andras,Eszenyi Andras,33.301,35.121,1.82,5.47,33.439,35.354,5.73,37.33,3.54,5/10 8/10 10/10
+2024-05-25,2024,Pécs,Offroad MB 2024 2. ford.,1/8 E-Buggy,1/8,16,10,10,A,Eszenyi Andras,Eszenyi Andras,22.573,24.157,1.584,7.02,22.573,24.157,7.02,25.635,3.75,10/10 6/10 9/10
+2024-04-27,2024,Apaj,Offroad MB 2024 1. ford.,1/8 E-Buggy,1/8,18,7,9,A,Eszenyi Andras,Eszenyi Andras,26.211,28.172,1.961,7.48,26.211,28.456,8.57,29.638,3.41,9/10 8/10 7/10
+2024-04-06,2024,Szár,WRH 23/24 8. ford.,1/10 WRH Buggy 2WD,1/10,14,8,8,A,Zsombor Fekete,Zsombor Fekete,19.747,21.296,1.549,7.84,19.888,21.296,7.08,23.005,3.86,8/8 6/8 7/8
+2024-03-09,2024,Szár,WRH 23/24 7. ford.,1/10 WRH Buggy 4WD,1/10,11,6,6,B,Bajusz Junior Zsolt,Bajusz Junior Zsolt,17.512,19.664,2.152,12.29,17.581,19.664,11.85,21.106,2.93,6/6 6/6 6/6 5/6
+2024-03-09,2024,Szár,WRH 23/24 7. ford.,1/10 WRH Buggy 2WD,1/10,18,10,7,A,Bajusz Junior Zsolt,Bajusz Junior Zsolt,17.527,20.321,2.794,15.94,18.401,20.37,10.7,21.349,2.52,8/10 9/10 5/10
+2024-02-17,2024,Szár,WRH 23/24 6. ford.,1/10 WRH Buggy 2WD,1/10,19,9,7,A,Robin Riedmann,Robin Riedmann,20.191,22.263,2.072,10.26,20.191,22.263,10.26,23.578,2.98,8/9 7/9 4/9
+2024-01-20,2024,Szár,WRH 23/24 5. ford.,1/10 WRH Buggy 2WD,1/10,21,10,12,B,Robin Riedmann,Robin Riedmann,18.393,20.922,2.529,13.75,18.56,21.037,13.35,22.322,3.01,4/7 7/7 5/7
+2023-12-28,2023,Szár,WRH European Grand Prix,1/10 WRH Buggy 2WD,1/10,20,13,13,B,Bajusz Junior Zsolt,Bajusz Junior Zsolt,18.978,21.357,2.379,12.54,18.978,21.357,12.54,22.368,2.93,6/7 6/7 5/7
+2023-12-09,2023,Szár,WRH 23/24 4. ford.,1/10 WRH Buggy 2WD,1/10,17,12,12,B,Patrick Bremstaller,Bajusz Junior Zsolt,17.722,19.763,2.041,11.52,17.782,19.842,11.58,20.78,3.3,2/8 3/8 2/8
+2023-11-18,2023,Szár,WRH 23/24 3. ford.,1/10 WRH Buggy 2WD,1/10,22,12,10,B,Bajusz Junior Zsolt,Robin Riedmann,18.24,19.53,1.29,7.07,18.249,19.53,7.02,20.802,3.28,1/8 3/8 4/8
+2023-10-21,2023,Szár,WRH 23/24 2. ford.,1/10 WRH Buggy 2WD,1/10,24,14,13,B,Max Götzl,Max Götzl,15.608,17.597,1.989,12.74,15.608,17.597,12.74,19.203,4.33,4/8 6/8 3/8
+2023-09-16,2023,Homokbödöge,VI. Bakonyerdő Kupa,1/8 E-Buggy,1/8,21,5,6,A,Botond Kinhirt,Botond Kinhirt,34.406,36.006,1.6,4.65,34.793,36.006,3.49,38.884,4,5/11 6/11 8/11
+2023-08-26,2023,Győr,Offroad MB 2023 6. ford.,1/8 E-Buggy Pro,1/8,12,8,7,A,Putzer Alex,Botond Kinhirt,31.642,32.68,1.038,3.28,33.248,34.011,2.29,34.961,3.42,6/12 7/12 8/12
+2023-07-29,2023,Szekszárd,Offroad MB 2023 5. ford.,1/8 E-Buggy Pro,1/8,13,7,10,A,Eszenyi Andras,Eszenyi Andras,40.232,42.23,1.998,4.97,40.232,42.23,4.97,44.554,3.11,13/13 8/13 11/13
+2023-07-15,2023,Szekszárd,Offroad MB 2023 3. ford.,1/8 E-Buggy Pro,1/8,10,7,9,A,Eszenyi Andras,Eszenyi Andras,40.634,44.067,3.433,8.45,40.634,44.762,10.16,46.346,3.91,10/10 10/10 7/10
+2023-07-01,2023,Homokbödöge,Offroad MB 2023 4. ford.,1/8 E-Buggy Pro,1/8,16,8,8,A,Botond Kinhirt,Zsombor Fekete,33.354,35.229,1.875,5.62,33.684,35.447,5.23,36.748,3.44,9/10 8/10
+2023-05-13,2023,Pécs,Offroad MB 2023 2. ford.,1/8 E-Buggy Pro,1/8,14,5,5,A,Eszenyi Andras,Eszenyi Andras,22.216,23.813,1.597,7.19,22.216,23.997,8.02,25.068,2.82,5/13 5/13 6/14
+2023-04-22,2023,Apaj,Offroad MB 2023 1. ford.,1/8 E-Buggy,1/8,11,7,8,A,Eszenyi Andras,Daniel Schweizer,27.185,29.31,2.125,7.82,27.185,29.483,8.45,30.442,3.04,7/11 11/11 8/11
+2023-04-08,2023,Szár,West Rc Hungary 2023 6. ford.,1/10 Elektromos Buggy 4WD,1/10,12,6,6,A,Antonia Kovalszki,Antonia Kovalszki,19.488,21.449,1.961,10.06,19.887,21.507,8.15,22.5,2.61,10/12 5/12 6/12
+2023-04-08,2023,Szár,West Rc Hungary 2023 6. ford.,1/10 Elektromos Buggy 2WD,1/10,17,5,5,A,Antonia Kovalszki,Márk Valent,20.222,21.699,1.477,7.3,20.281,21.699,6.99,22.815,3.32,5/10 5/10 10/10
+2023-03-04,2023,Szár,West Rc Hungary 2023 5. ford.,1/10 Elektromos Buggy 4WD,1/10,12,4,3,A,Zsombor Fekete,Szabolcs Levente Kónya,19.566,20.518,0.952,4.87,19.955,21.673,8.61,22.335,3.53,3/12 3/12 5/12
+2023-03-04,2023,Szár,West Rc Hungary 2023 5. ford.,1/10 Elektromos Buggy 2WD,1/10,19,6,4,A,Zsombor Fekete,Balint Rajki,20.466,21.872,1.406,6.87,20.466,21.944,7.22,23.024,3.55,4/10 5/10 3/10
+2023-02-18,2023,Szár,West Rc Hungary 2023 4. ford.,1/10 Elektromos Buggy 4WD,1/10,12,6,5,A,Zsombor Fekete,Zsombor Fekete,22.185,23.488,1.303,5.87,22.405,23.644,5.53,24.915,3.52,7/12 6/12 3/12
+2023-02-18,2023,Szár,West Rc Hungary 2023 4. ford.,1/10 Elektromos Buggy 2WD,1/10,16,3,3,A,Balint Rajki,Zsombor Fekete,22.617,23.454,0.837,3.7,22.71,23.454,3.28,24.99,2.67,3/10 3/10 3/10
+2022-10-08,2022,Homokbödöge,I. Sokoró-RC Kupa,1/8 Buggy Nitró,1/8,6,2,3,A,Štefan Lutka,Štefan Lutka,29.657,33.889,4.232,14.27,29.657,34.326,15.74,35.532,2.86,3/6
+2022-08-28,2022,Homokbödöge,V. Bakonyerdő Kupa,1/8 Buggy Nitró,1/8,8,4,3,A,Péter Kozma,Péter Kozma,33.567,34.244,0.677,2.02,34.503,34.503,0.0,,,3/8
+2021-09-18,2021,Homokbödöge,MB 1/8 Off-Road 2021 7. ford.,1/8 E-Buggy Pro,1/8,12,7,5,A,Balazs Palla,Balazs Palla,32.057,32.575,0.518,1.62,32.057,33.085,3.21,34.016,3.13,4/12 5/12 11/12
+2021-07-03,2021,Homokbödöge,MB 1/8 Off-Road 2021 4. ford.,1/8 E-Buggy Pro,1/8,23,13,13,B,Martin Bayer,Martin Bayer,31.547,34.041,2.494,7.91,31.627,34.041,7.63,35.852,3.2,1/11 2/11 1/11
